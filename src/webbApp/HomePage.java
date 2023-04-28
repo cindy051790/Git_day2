@@ -10,5 +10,7 @@ public class HomePage {
 
     //logo
 
+    //logo was added and created
+
 
 }
