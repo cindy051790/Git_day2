@@ -12,5 +12,13 @@ public class HomePage {
 
     //logo was added and created
 
+    // adding more things
+
+    // adding more and more things
+
+    // more to be added
+
+
+
 
 }
