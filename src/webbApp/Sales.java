@@ -12,5 +12,9 @@ public class Sales {
 
     //please come next week
 
+    // added holiday sales
+
+    //30 % off
+
 
 }
